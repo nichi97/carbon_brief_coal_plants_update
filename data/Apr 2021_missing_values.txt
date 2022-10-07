@@ -1,0 +1,19 @@
+
+0 units with no capacity data
+
+0 units (0.0 MW) with no location data
+
+0 operating units (0.0 MW) with no location
+0 retired units (0.0 MW) with no location
+0 announced units (0.0 MW) with no location
+0 shelved units (0.0 MW) with no location
+0 cancelled units (0.0 MW) with no location
+
+3240 units (2040663.0999999999 MW) with no Start Year
+117 operating units (7266.0 MW) with no Start Year
+114 retired units (6213.7 MW) with no Start Year
+
+10250 units (2040663.0999999999 MW) with no Retire Year
+6444 operating units (2067116.4 MW) with no Retire Year
+83 retired units (6384.5 MW) with no Retire Year
+57 retired units in China (3453.5 MW) with no Retire Year
